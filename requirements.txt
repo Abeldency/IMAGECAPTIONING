@@ -1,8 +1,5 @@
-tensorflow
-numpy
-pandas
-matplotlib
-pillow
-nltk
-scikit-learn
 streamlit
+tensorflow==2.19.1
+numpy
+pillow
+keras
