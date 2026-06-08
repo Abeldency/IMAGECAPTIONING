@@ -1,0 +1,15 @@
+# Gradio
+.gradio/
+
+# Keras cache
+keras_cache/
+
+# Test images
+*.jpg
+*.jpeg
+*.png
+
+# Temporary files
+quick_test.py
+save_test.py
+streamlit_app_old.py
